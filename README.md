@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @NimeshKolambage
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+👋 Hi, I’m Nimesh Kolambage.
+👀 I’m interested in software development and technology.
+🌱 I’m currently an undergraduate pursuing a diploma in software engineering.
