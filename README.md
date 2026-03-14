@@ -19,14 +19,35 @@
 ## 🏅 Certifications & Badges
 
 <p align="center">
-  <a href="https://badgr.com/public/assertions/RmJiCjEbQt27l9imw53vjg" target="_blank">
-    <img src="https://badges.parchment.com/public/assertions/RmJiCjEbQt27l9imw53vjg/image" width="150" alt="IBM SkillsBuild - AI Literacy"/>
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://badgr.com/public/assertions/RmJiCjEbQt27l9imw53vjg" target="_blank">
+          <img src="https://badges.parchment.com/public/assertions/RmJiCjEbQt27l9imw53vjg/image" width="130" alt="IBM AI Literacy"/>
+        </a>
+        <br/>
+        <b>🤖 AI Literacy</b>
+        <br/>
+        <sub>IBM SkillsBuild · Mar 2026</sub>
+      </td>
+      <td align="center">
+        <img src="./badges/api-learning-101.png" width="130" alt="API Learning 101"/>
+        <br/>
+        <b>☁️ API Learning 101</b>
+        <br/>
+        <sub>Nisal Gunawardhana · 2026</sub>
+      </td>
+      <td align="center">
+        <img src="./badges/github-for-beginners.png" width="130" alt="GitHub for Beginners"/>
+        <br/>
+        <b>🐙 GitHub for Beginners</b>
+        <br/>
+        <sub>Nisal Gunawardhana · 2026</sub>
+      </td>
+    </tr>
+  </table>
 </p>
 
-<p align="center">
-  <b>🤖 AI Literacy</b> — IBM SkillsBuild &nbsp;|&nbsp; Issued: March 11, 2026
-</p>
 ## 👨‍💻 About Me
 
 ```js
