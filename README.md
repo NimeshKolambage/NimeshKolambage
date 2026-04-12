@@ -16,31 +16,6 @@
   <a href="YOUR_LINK_HERE"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="YOUR_LINK_HERE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
-## 🏅 Badges
-
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://badgr.com/public/assertions/RmJiCjEbQt27l9imw53vjg" target="_blank">
-          <img src="https://badges.parchment.com/public/assertions/RmJiCjEbQt27l9imw53vjg/image" width="130" alt="IBM AI Literacy"/>
-        </a>
-        <br/>
-        <br/>
-      </td>
-      <td align="center">
-        <img src="./badges/api-learning-101.png" width="130" alt="API Learning 101"/>
-        <br/>
-        <br/>
-      </td>
-      <td align="center">
-        <img src="./badges/github-for-beginners.png" width="130" alt="GitHub for Beginners"/>
-        <br/>
-        <br/>
-      </td>
-    </tr>
-  </table>
-</p>
 
 ## 👨‍💻 About Me
 
